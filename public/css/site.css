@@ -1,0 +1,33 @@
+.place {
+    cursor: pointer;
+}
+.place:hover {
+    background: #fcf8e3;
+}
+.reserv {
+    background: #cccccc !important;
+    cursor: no-drop;
+}
+.reserv:hover {
+    background: #cccccc;
+}
+.choosen {
+    background: #f0ad4e;
+}
+.choosen:hover {
+    background: #f0ad4e;
+}
+.button {
+    color: white;
+    background: #f0ad4e;
+}
+#make_choose {
+    display: none;
+}
+.link {
+    color: #f0ad4e;
+    cursor: pointer;
+}
+.success {
+    color: #f0ad4e;
+}
